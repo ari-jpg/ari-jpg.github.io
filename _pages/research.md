@@ -21,8 +21,15 @@ output:
 * Diego M. Song Cho, Haiqiu Yang, Zizheng Jia, **Arielle S, Joasil**, Xinran Gao, and Christine P. Hendon (2024).
   Predictive coding compressive sensing optical coherence tomography hardware implementation. Biomedical Optics Express, 15(11). https://doi.org/10.1364/BOE.541685.
 
-* Pratik Gandhi, **Arielle Joasil** , Chester Obi, Angela Bertolino, Kavitha Chandra, and Charles Thompson. (2019). 
+## Conference Papers and Proceedings
+
+* **Arielle S. Joasil**, Diego M. Song Cho, Manuel J. Jerome, Hanina Hibshoosh, and Christine P. Hendon. Classification of Reconstructed Breast Optical Coherence Tomography Volumes via Compressed Sensing. Optica Biophotonics Congress: Biomedical Optics 2024 (Translational, Microscopy, OCT, OTS, BRAIN), Technical Digest Series (Optica Publishing Group, 2024), paper CTu3E.3.
+
+* Aidan Therien, **Arielle Joasil**, and Christine P. Hendon. Cardiac Substrate Classification of Human Venoatrial Junction OCT Images. 2024 Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, USA, 2024, pp. 1-2.
+
+* Pratik Gandhi, **Arielle Joasil**, Chester Obi, Angela Bertolino, Kavitha Chandra, and Charles Thompson. (2019). 
 Distributed sensing for acoustic source localization in reverberant environments. Proceedings of Meetings of Acoustics (POMA), 36(1). https://doi.org/10.1121/1.5101366.
+
 ## Conference Presentations
 
 * **Arielle S. Joasil**, Hanina Hibshoosh, Christine P. Hendon.
