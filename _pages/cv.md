@@ -90,6 +90,7 @@ Academic Service, Leadership, Outreach Experience, and Memberships
   * Focus Group Facilitator, *RAMP to Success, UMass Lowell* (July 2020 – November 2020)
 
 **Memberships**
+
 Optica, SPIE, Tau Beta Pi (MA Q), IEEE Eta Kappa Nu, Urban Massachusetts Louis Stokes Alliance for Minority Participation (UMLSAMP), National Society of Black Engineers (NSBE)
 
 
