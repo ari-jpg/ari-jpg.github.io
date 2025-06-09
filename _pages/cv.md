@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "(Abridged) CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, Columbia University, September 2021 – November 2025 (Anticipated)
-* M.S. in Electrical Engineering, UMass Lowell, May 2020 – May 2021 
-* B.S. in Electrical Engineering (Mathematics Minor), UMass Lowell, September 2015 – December 2019
+* Ph.D in Electrical Engineering, Columbia University, September 2021 to November 2025 (Anticipated)
+* M.S. in Electrical Engineering, UMass Lowell, May 2020 to May 2021 
+* B.S. in Electrical Engineering (Mathematics Minor), UMass Lowell, September 2015 to December 2019
 
 
 Work experience
@@ -41,23 +41,23 @@ Work experience
 
 Honors and Awards
 ======
-*	Avanessians Doctoral Fellowship (Fall 2024 – Spring 2025)
-*	GEM Fellowship sponsored by MIT Lincoln Lab & Columbia University (Fall 2021 – Spring 2026)
+*	Avanessians Doctoral Fellowship (Fall 2024 to Spring 2025)
+*	GEM Fellowship sponsored by MIT Lincoln Lab & Columbia University (Fall 2021 to Spring 2026)
 *	Carl Storm Underrepresented Minority Fellowship (July 2022)
-*	Columbia Engineering Byron Fellowship (Fall 2021 – Spring 2022)
+*	Columbia Engineering Byron Fellowship (Fall 2021 to Spring 2022)
 *	Inaugural Optica Amplify Scholarship (Spring 2022)
 *	Eta Kappa Nu (Epsilon Zeta) (April 2019)
 *	Tau Beta Pi (MA Q) (October 2017)
-*	Urban Massachusetts Louis Stokes Alliance for Minority Participation (UMLSAMP) (Spring 2016 – Fall 2017) 
+*	Urban Massachusetts Louis Stokes Alliance for Minority Participation (UMLSAMP) (Spring 2016 to Fall 2017) 
 *	Smithsonian Institution Short Term Visitor Award (Summer 2016)
 
 Mentorship
 =====
-* Mentor, *Structure Function Imaging Laboratory (SFIL)* (June 2022 – Present)
+* Mentor, *Structure Function Imaging Laboratory (SFIL)* (June 2022 to Present)
   * SURE Fellows, MS and BS students
-* Math and Science Academic Coach, *Armory College Prep, Armory Foundation* (January 2023 – Present) 
-* Near-Peer Mentor, *Research, Academics, and Mentoring Pathways (RAMP) to Success* (July – August 2019/2020)
-* Peer Mentor, *Harvard-Smithsonian Center for Astrophysics*	(June – August 2017)
+* Math and Science Academic Coach, *Armory College Prep, Armory Foundation* (January 2023 to Present) 
+* Near-Peer Mentor, *Research, Academics, and Mentoring Pathways (RAMP) to Success* (July to August 2019/2020)
+* Peer Mentor, *Harvard-Smithsonian Center for Astrophysics*	(June to August 2017)
 
 
 
@@ -77,17 +77,17 @@ Academic Service, Leadership, Outreach Experience, and Memberships
   *	Reviewer, Machine Learning: Science and Technology (IOPScience)
 
 **Leadership**
-  * Co-Social Chair, *GEEC, Columbia University* (January 2024 – December 2024) 
+  * Co-Social Chair, *GEEC, Columbia University* (January 2024 to December 2024) 
   * Prospective PhD Open House Student Panelist, *Columbia EE* (Fall 2023, Fall 2024)
-  * Public Relations Chair, *CORE^2, Columbia University*	(January 2022 – April 2023) 
-  * President, *HASA, UMass Lowell* (May 2016 – May 2019)
+  * Public Relations Chair, *CORE^2, Columbia University*	(January 2022 to April 2023) 
+  * President, *HASA, UMass Lowell* (May 2016 to May 2019)
 
 **Outreach**
   * National Society of Black Engineers SFIL Tour Guide, *Columbia University* (February 23, 2024)	       
   * Young Women’s Leadership Institute SFIL Tour Guide, *Columbia University*	(July 27, 2023)	       
   * EngAGE Student Panel, *Columbia Engineering* (April 2022)
   * Alumni Panel, *UMass Lowell IEEE*	(October 2021)
-  * Focus Group Facilitator, *RAMP to Success, UMass Lowell* (July 2020 – November 2020)
+  * Focus Group Facilitator, *RAMP to Success, UMass Lowell* (July 2020 to November 2020)
 
 **Memberships**
 
