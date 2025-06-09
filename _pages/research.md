@@ -10,6 +10,8 @@ output:
 
 ## Journal Publications
 
+*	Danyang Cheng, Haiqiu Yang, **Arielle S. Joasil**, Xiaowei Chen, Hanina Hibshoosh, Christine P. Hendon (2025). Near-infrared spectroscopy mapping for uterine cancer and fibroid detection. Journal of Biophotonics. https://doi.org/10.1002/jbio.70062.
+
 * Aidan M. Therien, Jonah A. Majumder, **Arielle S. Joasil**, Daniella M. Fodera, Kristin M. Myers, Xiaowei Chen, Christine Hendon (2025).
   Hyperspectral Imaging of Uterine Fibroids. Journal of Biophotonics, https://doi.org/10.1002/jbio.202400499.  
 
