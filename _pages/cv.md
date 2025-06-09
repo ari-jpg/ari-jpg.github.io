@@ -19,18 +19,25 @@ Education
 Work experience
 ======
 * September 2021 to Present: Graduate Research Assistant, Structure Function Imaging Laboratory
-  * Department of Electrical Engineering, Columbia University, Advisor: Dr. Christine P. Hendon	
+  * Department of Electrical Engineering, Columbia University; Advisor: Dr. Christine P. Hendon	
 
 * Summer 2021: Summer Intern
   * Massachusetts Institute of Technology Lincoln Laboratory
   
-
 * May 2020 to May 2021: Graduate Research Assistant, Center for Advanced Computation and Telecommunications
-  * Department of Electrical Engineering, UMass Lowell, Advisors: Dr. Kavitha Chandra and Dr. Charles Thompson
+  * Department of Electrical Engineering, UMass Lowell; Advisors: Dr. Kavitha Chandra and Dr. Charles Thompson
   * Master's Thesis Title: Simulating the Space-Time Trajectory of Respiratory Droplets and Aerosols
 
 * December 2018 to December 2019: Undergraduate Research Assistant, Center for Advanced Computation and Telecommunications
-  * Department of Electrical Engineering, UMass Lowell, Advisors: Dr. Kavitha Chandra and Dr. Charles Thompson
+  * Department of Electrical Engineering, UMass Lowell; Advisors: Dr. Kavitha Chandra and Dr. Charles Thompson
+
+* January 2018 to April 2020: Electrical Engineering Co-op
+  * Thermo Fisher Scientific					         			         
+
+* June 2016 to December 2017: Undergraduate Research Fellow 
+  * Harvard-Smithsonian Center for Astrophysics; Advisor: Dr. Matthew J. Payne			      					        
+
+
 
 Honors and Awards
 ======
@@ -46,30 +53,28 @@ Honors and Awards
 
 Mentorship
 =====
-Mentor, *Structure Function Imaging Laboratory (SFIL)* (June 2022 – Present)
-* SURE Fellows, MS and BS students
-
-Math and Science Academic Coach, *Armory College Prep, Armory Foundation* (January 2023 – Present) 
-
-Near-Peer Mentor, *Research, Academics, and Mentoring Pathways (RAMP) to Success* (July – August 2019/2020)
-
-Peer Mentor, *Harvard-Smithsonian Center for Astrophysics*	(June – August 2017)
+* Mentor, *Structure Function Imaging Laboratory (SFIL)* (June 2022 – Present)
+  * SURE Fellows, MS and BS students
+* Math and Science Academic Coach, *Armory College Prep, Armory Foundation* (January 2023 – Present) 
+* Near-Peer Mentor, *Research, Academics, and Mentoring Pathways (RAMP) to Success* (July – August 2019/2020)
+* Peer Mentor, *Harvard-Smithsonian Center for Astrophysics*	(June – August 2017)
 
 
 
 Research Overview
 ======
-[Research page][https://ari-jpg.github.io/research/]
+[Research page](https://ari-jpg.github.io/research/)
 
 Teaching
 ======
-[Teaching page][https://ari-jpg.github.io/teaching/]
+[Teaching page](https://ari-jpg.github.io/teaching/)
 
   
 Academic Service, Leadership, Outreach Experience, and Memberships 
 ======
 **Academic Service**
-  *	Co-Chair, Optics and Photonics in Medicine and Biology, Gordon Research Seminar (2026) 			          *	Reviewer, Machine Learning: Science and Technology (IOPScience)
+  *	Co-Chair, Optics and Photonics in Medicine and Biology, Gordon Research Seminar (2026)
+  *	Reviewer, Machine Learning: Science and Technology (IOPScience)
 
 **Leadership**
   * Co-Social Chair, *GEEC, Columbia University* (January 2024 – December 2024) 
@@ -78,11 +83,11 @@ Academic Service, Leadership, Outreach Experience, and Memberships
   * President, *HASA, UMass Lowell* (May 2016 – May 2019)
 
 **Outreach**
-National Society of Black Engineers SFIL Tour Guide, *Columbia University* (February 23, 2024)	       
-Young Women’s Leadership Institute SFIL Tour Guide, *Columbia University*	(July 27, 2023)	       
-EngAGE Student Panel, *Columbia Engineering* (April 2022)
-Alumni Panel, *UMass Lowell IEEE*	(October 2021)
-Focus Group Facilitator, *RAMP to Success, UMass Lowell* (July 2020 – November 2020)
+  * National Society of Black Engineers SFIL Tour Guide, *Columbia University* (February 23, 2024)	       
+  * Young Women’s Leadership Institute SFIL Tour Guide, *Columbia University*	(July 27, 2023)	       
+  * EngAGE Student Panel, *Columbia Engineering* (April 2022)
+  * Alumni Panel, *UMass Lowell IEEE*	(October 2021)
+  * Focus Group Facilitator, *RAMP to Success, UMass Lowell* (July 2020 – November 2020)
 
 **Memberships**
 Optica, SPIE, Tau Beta Pi (MA Q), IEEE Eta Kappa Nu, Urban Massachusetts Louis Stokes Alliance for Minority Participation (UMLSAMP), National Society of Black Engineers (NSBE)
