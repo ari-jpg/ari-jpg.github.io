@@ -8,7 +8,8 @@ output:
 ---
 
 
-## Journal Publications
+Journal Publications
+=====
 
 *	Danyang Cheng, Haiqiu Yang, **Arielle S. Joasil**, Xiaowei Chen, Hanina Hibshoosh, Christine P. Hendon (2025). Near-infrared spectroscopy mapping for uterine cancer and fibroid detection. Journal of Biophotonics. https://doi.org/10.1002/jbio.70062.
 
@@ -21,7 +22,8 @@ output:
 * Diego M. Song Cho, Haiqiu Yang, Zizheng Jia, **Arielle S, Joasil**, Xinran Gao, and Christine P. Hendon (2024).
   Predictive coding compressive sensing optical coherence tomography hardware implementation. Biomedical Optics Express, 15(11). https://doi.org/10.1364/BOE.541685.
 
-## Conference Papers and Proceedings
+Conference Papers and Proceedings
+=====
 
 * **Arielle S. Joasil**, Diego M. Song Cho, Manuel J. Jerome, Hanina Hibshoosh, and Christine P. Hendon. Classification of Reconstructed Breast Optical Coherence Tomography Volumes via Compressed Sensing. Optica Biophotonics Congress: Biomedical Optics 2024 (Translational, Microscopy, OCT, OTS, BRAIN), Technical Digest Series (Optica Publishing Group, 2024), paper CTu3E.3.
 
@@ -30,7 +32,8 @@ output:
 * Pratik Gandhi, **Arielle Joasil**, Chester Obi, Angela Bertolino, Kavitha Chandra, and Charles Thompson. (2019). 
 Distributed sensing for acoustic source localization in reverberant environments. Proceedings of Meetings of Acoustics (POMA), 36(1). https://doi.org/10.1121/1.5101366.
 
-## Conference Presentations
+Conference Presentations
+=====
 
 * **Arielle S. Joasil**, Hanina Hibshoosh, Christine P. Hendon.
   *Towards streamlining the breast pathology workflow: automated processing of breast optical coherence tomography volumes.* Invited oral presentation. Computational Biophotonics, Northeast Symposium on Biomedical Optics (NESBO) 2024. October 2024.
