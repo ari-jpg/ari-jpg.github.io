@@ -13,3 +13,4 @@ I received my MS and BS in Electrical Engineering from [UMass Lowell](https://ww
 
 In general, I'm interested in biomedical image processing. I use AI and signal processing techniques to extract meaningful information from optical coherence tomography (OCT) volumes of the heart, breast, and uterus. 
 
+[Attenuation profiling for OCT B-scans](https://github.com/ari-jpg/oct-attenuation-profiling).
