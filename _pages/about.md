@@ -11,6 +11,4 @@ Hi! My name is Arielle S. Joasil, and I'm a fifth-year Ph.D. candidate at Columb
 
 I received my MS and BS in Electrical Engineering from [UMass Lowell](https://www.uml.edu/engineering/electrical-computer/), where I was advised by [Dr. Kavitha Chandra](https://www.uml.edu/research/cact/people/chandra-kavitha.aspx) and [Dr. Charles Thompson](https://www.uml.edu/research/cact/people/thompson-charles.aspx) at the [CACT](https://www.uml.edu/research/cact/).  
 
-In general, I'm interested in biomedical image processing. I use AI and signal processing techniques to extract meaningful information from optical coherence tomography (OCT) volumes of the heart, breast, and uterus. 
-
-[Attenuation profiling for OCT B-scans](https://github.com/ari-jpg/oct-attenuation-profiling).
+In general, I'm interested in biomedical image processing. I use AI and signal processing techniques to extract meaningful information from optical coherence tomography (OCT) volumes of the heart, breast, and uterus. One feature I've derived for this task is the attenuation coefficient. I've showcased a Python implementation: [Attenuation profiling for OCT B-scans](https://github.com/ari-jpg/oct-attenuation-profiling).
