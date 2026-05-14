@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, Columbia University, September 2021 to November 2025 (Anticipated)
+* Ph.D in Electrical Engineering, Columbia University, September 2021 to April 2026
 * M.S. in Electrical Engineering, UMass Lowell, May 2020 to May 2021 
 * B.S. in Electrical Engineering (Mathematics Minor), UMass Lowell, September 2015 to December 2019
 
